@@ -9,6 +9,7 @@ import Homework_02 from "./homeworks/Homework_02/Homework_02";
 import Homework_03 from "./homeworks/Homework_03/Homework_03";
 
 // CONSULTATIONS
+import Consultation_02 from "./consultations/Consultation_02/Consultaton_02";
 
 import "./App.css";
 
@@ -24,7 +25,9 @@ function App() {
       {/* 4 шаг - возвращаем компонент Lesson_02 из компонента App */}
       {/* <Lesson_02 /> */}
       {/* <Lesson_03 /> */}
-      <Lesson_04 />
+      {/* <Lesson_04 /> */}
+      {/* Consultations */}
+      <Consultation_02 />
       {/* Homeworks */}
       {/* <Homework_02 /> */}
       {/* <Homework_03 /> */}
